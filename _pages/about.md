@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. *Ad absurdum per aspera*
+subtitle: <p>Ad absurdum per aspera</p>
 
 profile:
   align: right
@@ -29,4 +29,5 @@ latest_posts:
 ---
 
 Hi! I'm an undergraduate student studying Computer Science at [Carnegie Mellon University](https://www.cmu.edu/). Before coming to CMU, I lived in Birmingham, Alabama, and was in the Math/Science department at the [Alabama School of Fine Arts](https://www.asfaschool.org/). I'm interested AI, physics, computational neuroscience, math, or generally solving any cool problems (and talking to cool people about them!). In my free time I like to walk, participate in various trivia competitions, read fantasy and science fiction, and sleep. 
+
 I've previously done research on various types of brain imaging data, such as electroencephalogram decoding and human connectome upsampling, as well as large language model interpretability. I currently work on time series foundation models with Artur Dubrawski in the [Auton Lab](https://autonlab.org/) @ CMU. 
