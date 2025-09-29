@@ -6,7 +6,7 @@ subtitle: <p>Ad absurdum per aspera</p>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sketch2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>mcnairs</p>
