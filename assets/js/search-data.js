@@ -398,13 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-my-lead-author-paper-death-by-a-thousand-directions-has-been-accepted-to-colm-interplay-2025",
+          title: 'My lead-author paper, Death By A Thousand Directions, has been accepted to COLM...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-just-started-at-carnegie-mellon-university-as-a-freshman-in-computer-science",
+          title: 'I just started at Carnegie Mellon University as a freshman in computer science!...',
           description: "",
           section: "News",},{id: "news-my-lead-author-paper-death-by-a-thousand-directions-has-been-accepted-to-neurips-mech-interp-2025",
           title: 'My lead-author paper, Death By A Thousand Directions, has been accepted to NeurIPS...',
@@ -433,7 +431,7 @@ ninja.data = [{
           title: 'Page-By-Page',
           description: "Making Research More Accessible",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/template/";
+              window.location.href = "/projects/a/template/";
             },},{
         id: 'social-email',
         title: 'email',
