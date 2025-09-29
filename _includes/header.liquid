@@ -20,7 +20,7 @@
             {{- site.title -}}
           {% endif %}
         </a>
-        <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/assets/pdf/McNairShahCV.pdf">CV</a>
+        
       {% elsif site.enable_navbar_social %}
         <!-- Social Icons -->
         <div class="navbar-brand social">{% include social.liquid %}</div>
@@ -115,6 +115,7 @@
                     {% endif %}
                   </a>
                 </li>
+                <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/assets/pdf/McNairShahCV.pdf">CV</a>
               {% endif %}
             {% endif %}
           {% endfor %}
