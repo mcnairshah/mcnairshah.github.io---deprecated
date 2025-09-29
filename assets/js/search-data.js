@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -423,9 +409,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-lead-author-paper-death-by-a-thousand-directions-has-been-accepted-to-neurips-mech-interp-2025",
           title: 'My lead-author paper, Death By A Thousand Directions, has been accepted to NeurIPS...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-page-by-page",
+          title: 'Page-By-Page',
+          description: "Making Research More Accessible",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
