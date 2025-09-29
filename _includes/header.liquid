@@ -56,6 +56,9 @@
               {% endif %}
             </a>
           </li>
+            <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+          <a class="nav-link" href="{{ site.baseurl }}/assets/pdf/McNairShahCV.pdf">cv</a>
+          </li>
 
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: 'nav_order' %}
@@ -115,7 +118,7 @@
                     {% endif %}
                   </a>
                 </li>
-                <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/assets/pdf/McNairShahCV.pdf">CV</a>
+                
               {% endif %}
             {% endif %}
           {% endfor %}
