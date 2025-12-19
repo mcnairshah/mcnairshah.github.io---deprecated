@@ -1,8 +1,0 @@
----
-layout: post
-date: 2025-09-27 15:59:00-0400
-inline: true
-related_posts: false
----
-
-My lead-author paper, [Death By A Thousand Directions](https://arxiv.org/html/2507.21141v1), has been accepted to NeurIPS Mech. Interp 2025!
